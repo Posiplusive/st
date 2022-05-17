@@ -1,0 +1,12 @@
+Posi+ive's build of st
+-----------------------
+Keybinds:
+You can look at config.def.h for all of the
+keybinds that I defined.
+-----------------------
+Patches applied:
+Alpha
+Any Geometry
+Clipboard
+Font2
+Scrollback Ringbuffer w. Mouse
